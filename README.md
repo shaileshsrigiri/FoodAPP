@@ -10,7 +10,7 @@ FoodApp is an iOS application built using Swift. This app demonstrates how to fe
 - **Modular Architecture**: Cleanly structured components for reusability and scalability.
 
 ## Screenshots
-Coming soon!
+
 
 ## Requirements
 
