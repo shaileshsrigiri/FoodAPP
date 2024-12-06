@@ -60,3 +60,29 @@ Coming soon!
 
 The app fetches data from the following API endpoint:
 https://raw.githubusercontent.com/shobhakartiwari/shobhakar_api_collections/39b4ed9c85833857e7d21c23352bb4857a818919/FoodData.json
+
+## Contributing
+
+Contributions are welcome! Please follow these steps:
+
+1. **Fork the Repository**: Click the 'Fork' button at the top right corner of this page.
+
+2. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/YourFeatureName
+3. **Commit Your Changes:**
+   ```bash
+   git commit -m 'Add some feature'
+4. **Push to the Branch:**
+   ```bash
+   git push origin feature/YourFeatureName
+5. **Create a Pull Request:** Navigate to the original repository and click 'New Pull Request'.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+## Contact
+For any inquiries or issues, please contact 
+- **Email**: shaileshsrigiri@gmail.com.
+
